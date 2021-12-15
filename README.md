@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @msorce
-- 👀 I’m interested in ... LeetCode/React/Redux/Gaming
+- 👀 I’m interested in ... LeetCode/React/Redux/Guitar/Gaming
 - 🌱 I’m currently making videos about Coding on [Youtube](https://www.youtube.com/channel/UCgmyYl_6elcWdJLUzYi6IWA)
 - 🐱‍💻 I also do live coding on [Twitch](https://www.twitch.tv/observed_)
 

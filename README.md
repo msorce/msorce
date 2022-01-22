@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mark
 - 👀 I’m interested in ... LeetCode/React/Redux/Guitar/Gaming
 - 🌱 I’m currently making videos about Coding on [Youtube](https://www.youtube.com/channel/UCgmyYl_6elcWdJLUzYi6IWA)
-- 🐱‍💻 I also do live coding on [Twitch](https://www.twitch.tv/observed_)
+- 🐱‍💻  I also do live coding on [Twitch](https://www.twitch.tv/observed_)
 
 ![computer](https://raw.githubusercontent.com/msorce/msorce.github.io/master/computer.gif)
 <!---
